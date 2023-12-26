@@ -1,0 +1,23 @@
+p {
+	color: grey;
+	font-family: sans-serif;
+	font-size: 18px;
+}
+
+h2{
+	color: white;
+}
+
+h1{
+	color: white;
+}
+
+marquee{
+	font-size: 24px
+}
+
+div{
+	color: grey;
+	font-family: sans-serif;
+	margin-top: 100px;
+}
